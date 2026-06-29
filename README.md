@@ -1,5 +1,5 @@
 ## Archive notice
-This repository is now archived. I've switched to using spiteful-fox's xivlauncher-appimage scripts instead.
+This repository is now archived. I've switched to using spiteful-fox's [xivlauncher-appimage](https://github.com/spiteful-fox/xivlauncher-appimage) scripts instead.
 
 # XIVLauncher.Core in an AppImage package
 ![workflow](https://github.com/rankynbass/XIVLauncher-AppImage/actions/workflows/main.yml/badge.svg)
